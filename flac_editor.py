@@ -1,4 +1,14 @@
 # Flac Editor
+#
+# Use a separate configuration file in JSON format
+# to configure what the album should look like
+# in terms of metadata. An example of what the
+# configuration file should look like is in README.md
+#
+# Michael Kiros
+
+# TODO: Add more VORBIS comments and the ability
+# to add custom fields (e.g. PRODUCER)
 import json
 import argparse
 import os
